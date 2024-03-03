@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852904555331",
+    "project_id": "signingarry",
+    "storage_bucket": "signingarry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852904555331:android:989e0e57527fc6bba0f5f6",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsanZ2sMLjSC-fYabbH4XDt5rsvmsubY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
